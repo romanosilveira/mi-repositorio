@@ -1,0 +1,6 @@
+:root {
+    --color-primary: #2c3e50;   /* Color principal para botones y títulos */
+    --color-danger: #e74c3c;    /* Uso en errores y elementos críticos */
+    --spacing-base: 1rem;       /* Unidad base para márgenes/paddings */
+    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave para tarjetas */
+  }
